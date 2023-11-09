@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">👋 Olá, me chamo Guilherme<br><br>🏠  São José do Rio Preto, SP, 🇧🇷<br>📚 Estudante de Informática para Negócios na FATEC Rio Preto<br>💻 Apaixonado por JavaScript e o mundo do desenvolvimento web!<br>🌟 Especialista em Front-End, mas com olhos no horizonte Full Stack!<br><br>💡 Sempre em busca de desafios empolgantes e novas oportunidades para aprender e crescer. Compartilhando código, ideias e muita diversão no meu percurso de desenvolvimento. Seja bem-vindo(a) ao meu mundo de bits e pixels! 😄✨<br><br>🚀 Vamos criar juntos o futuro da web! 🌐💫</p>
+<p align="left">👋 Olá, me chamo Guilherme<br><br>🏠  São José do Rio Preto, SP, 🇧🇷<br>📚 Estudante de Informática para Negócios na FATEC Rio Preto<br>💻 Apaixonado por JavaScript e o mundo do desenvolvimento web!<br>🌟 Desenvolvedor Front-End, mas com olhos no horizonte Full Stack!<br><br>💡 Sempre em busca de desafios empolgantes e novas oportunidades para aprender e crescer. Compartilhando código, ideias e muita diversão no meu percurso de desenvolvimento. Seja bem-vindo(a) ao meu mundo de bits e pixels! 😄✨<br><br>🚀 Vamos criar juntos o futuro da web! 🌐💫</p>
 
 ###
 
