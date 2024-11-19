@@ -52,32 +52,38 @@
 <div align="center">
   <img
     src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"
-    height="40"
+    height="34"
     alt="JavaScript logo"
   />
-  <img width="12" />
   <img
     src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"
-    height="40"
+    height="34"
     alt="TypeScript logo"
   />
-  <img width="12" />
   <img
     src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge"
-    height="40"
+    height="34"
     alt="Angular logo"
   />
-  <img width="12" />
   <img
     src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"
-    height="40"
+    height="34"
     alt="Node.js logo"
   />
-  <img width="12" />
   <img
     src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge"
-    height="40"
+    height="34"
     alt="NestJS logo"
+  />
+  <img
+    src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"
+    height="34"
+    alt="Spring logo"
+  />
+  <img
+    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+    height="34"
+    alt="Java logo"
   />
 </div>
 <br />
