@@ -9,8 +9,8 @@
 Hey! Eu sou o **Guilherme Carmona**, um **Fullstack Developer** que vive e respira **Node.js**, **Angular**, **Java** e **C#**. 🚀 Atualmente estou no time da **Field Control**, ajudando a transformar sistemas de ordens de serviço em algo *brutal* para a galera.
 
 🔧 **Especialidades**:
-- **Frontend**: Angular, JavaScript (ES6+)
-- **Backend**: Node.js, Java, C#
+- **Frontend**: Angular, JavaScript (ES6+), ReactJS
+- **Backend**: Node.js, Java, C#, NestJS
 - **Outros**: REST APIs, Microservices, Docker, SQL/NoSQL
 
 👨‍💻 **O que estou fazendo agora?**
