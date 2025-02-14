@@ -14,7 +14,7 @@ Hey! Eu sou o **Guilherme Carmona**, um **Fullstack Developer** que vive e respi
 - **Outros**: REST APIs, Microservices, Docker, SQL/NoSQL
 
 👨‍💻 **O que estou fazendo agora?**
-- **Fullstack Developer** no **Field Control**
+- **Fullstack Developer** na **Field Control**
 - Estudando **Informática para Gestão de Negócios** na **FATEC Rio Preto**
 - Criando soluções que realmente impactam
 
