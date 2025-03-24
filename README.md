@@ -31,4 +31,4 @@ Hey! Eu sou o **Guilherme Carmona**, um **Fullstack Developer** que vive e respi
 
 ---
 
-> "Se não está quebrando, não está inovando." - 💡 **Guilherme Carmona**
+> "Se não está quebrando, não está inovando." - 💡
