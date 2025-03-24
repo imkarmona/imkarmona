@@ -2,6 +2,10 @@
 
 > "Construindo soluções épicas, uma linha de código de cada vez." 🚀
 
+<p align="center">
+  <img src="https://feelinfilm.com/wp-content/uploads/2017/06/Jesse-Eisenberg-Andrew-Garfield-The-Social-Network-David-Fincher.gif" alt="animated" />
+</p>
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-carmona-abb02b239/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imkarmona)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/imkarmona)
