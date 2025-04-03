@@ -37,7 +37,6 @@ Hey! Eu sou o **Guilherme Carmona**, um **Fullstack Developer** que vive e respi
 
 ### 💬 Vamos conversar?  
 - [LinkedIn](https://www.linkedin.com/in/guilherme-carmona-abb02b239/)  
-- [GitHub](https://github.com/imkarmona)  
 - [Instagram](https://instagram.com/imkarmona)
 
 ---
