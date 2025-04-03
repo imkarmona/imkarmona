@@ -24,6 +24,7 @@ Hey! Eu sou o **Guilherme Carmona**, um **Fullstack Developer** que vive e respi
 🔧 **Especialidades**:
 - **Frontend**: Angular, JavaScript (ES6+), ReactJS
 - **Backend**: Node.js, Java, C#, NestJS
+- **Mobile**: Flutter, React Native, Ionic
 - **Outros**: REST APIs, Microservices, Docker, SQL/NoSQL
 
 👨‍💻 **O que estou fazendo agora?**
