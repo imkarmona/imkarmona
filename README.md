@@ -18,7 +18,6 @@
 > *Carregando processos em background...*
 
 * 🏢 **Dev Fullstack** @ `iCountPlus`
-* 🧠 **CTO** @ `Quibble`
 * 🕹️ **Founder** @ `BecoWorks` (Cooking indie games)
 
 ---
