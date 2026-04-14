@@ -28,7 +28,7 @@
   <br/>
 
   <h3 style="color: #bd00ff;">:: FRONTEND & MOBILE ::</h3>
-  <img src="https://skillicons.dev/icons?i=react,next,angular,ts,sass,tailwind,vite,ionic,flutter" />
+  <img src="https://skillicons.dev/icons?i=react,next,angular,ts,sass,tailwind,vite,flutter" />
 
   <br/>
 
@@ -47,7 +47,7 @@
 ### 🖥️ SYSTEM_CONFIG
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=arch,vscode,rider,idea,visualstudio,git,github,npm" />
+  <img src="https://skillicons.dev/icons?i=arch,vscode,rider,idea,visualstudio" />
 </div>
 
 * **OS:** Linux CachyOS (Arch based, btw)
